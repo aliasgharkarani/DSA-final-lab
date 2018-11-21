@@ -1,0 +1,11 @@
+/home/karani/Documents/C#/bin/Debug/netcoreapp2.1/C#.deps.json
+/home/karani/Documents/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.json
+/home/karani/Documents/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.dev.json
+/home/karani/Documents/C#/bin/Debug/netcoreapp2.1/C#.dll
+/home/karani/Documents/C#/bin/Debug/netcoreapp2.1/C#.pdb
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.csprojAssemblyReference.cache
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.csproj.CoreCompileInputs.cache
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfoInputs.cache
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfo.cs
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.dll
+/home/karani/Documents/C#/obj/Debug/netcoreapp2.1/C#.pdb
